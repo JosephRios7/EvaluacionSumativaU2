@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/ASM_Ascensor/AscensorTB_isim_beh.exe" -prj "C:/.Xilinx/ASM_Ascensor/AscensorTB_beh.prj" "work.AscensorTB" 

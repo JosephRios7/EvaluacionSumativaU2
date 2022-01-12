@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/ASM_Ascensor/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/ASM_Ascensor/xst"
+elaborate
+-ifn ascensor.prj
+-ifmt mixed

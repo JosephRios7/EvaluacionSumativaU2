@@ -1,0 +1,2 @@
+vhdl work "ascensor.vhd"
+vhdl work "AscensorTB.vhd"

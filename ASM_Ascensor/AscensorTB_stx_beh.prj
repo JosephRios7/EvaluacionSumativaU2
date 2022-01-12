@@ -1,0 +1,2 @@
+vhdl isim_temp "ascensor.vhd"
+vhdl isim_temp "AscensorTB.vhd"
